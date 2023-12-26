@@ -9,3 +9,4 @@ pandas==2.1.4
 python-dotenv==1.0.0
 requests==2.30.0
 streamlit==1.29.0
+Python==3.11.2

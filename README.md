@@ -13,7 +13,7 @@
 <b>2. Azure AI Translator Service: Utilized for text translation into multiple languages.</b>  <br>
 <h3>Core Azure Services:</h3>
 <b>1. Azure App Service: Deployed  the streamlit Web App on Azure Cloud Portal.</b><br>
-
+<b>2. Azure Monitor Metrics service: Metrics used Performance Monitoring and creating the custom Dashboard for Azure services.</b><br>
 
 <h2>Problem Statement</h2>
 <b><p align="justify">The Extractor-Translation Web App is key to unlocking information in any language. It effortlessly extracts key points from text, translates them accurately, and presents them in a user-friendly format. It is a translator and guiding  through diverse texts with ease. This app is built for real-time exploration, handling large data. Remove the language barriers and dive into a world of understanding. The Extractor-Translation Web App is  discovery! Whether a student seeking global knowledge or a business navigating international markets, this app empowers you to break down barriers and connect with the world like never before.</p></b>
@@ -28,6 +28,7 @@ To develop a web application that seamlessly extracts text from images and docum
     <li>Azure Translator Service for language translation.</li>
     <li>Streamlit framework for building the user interface.</li>
     <li>Azure Web App Service for deployment.</li>
+    <li>Azure Monitor Metrics measure (CPU)performance and usages .</li>
     </ul>
   
 <b>Key Features :</b>
@@ -36,16 +37,17 @@ To develop a web application that seamlessly extracts text from images and docum
     <li>Flexible input: Supports both image and document uploads for text extraction.</li>
     <li>Multilingual translation: Leverages Azure Translator Service to translate extracted english text into a wide range of languages.</li>
     <li>Streamlined workflow: Offers a seamless process from image/document upload to translated text output.</li>
+    <li>Azure Monitor Metrics: Create custom dashboards and reports using Metrics Explorer for comprehensive insights.</li>
     </ul></b>
 
 
 <b><h2>Core Azure Services</h2>
 <b>Azure App Service:</b><br><p align="justify">Hosts the python backend to process user requests and provide text manipulation functionalities.</p>
+<b>Azure Monitor Metrics Service:</b><br><p align="justify"> Metrics used Performance Monitoring for App Service,AI services.</p>
 
 <h2>Azure AI Service</h2>
 <b>Azure AI Translator Service:</b><br><p align="justify">Our translation functionality is powered by the highly advanced Azure AI Translator service. This service utilizes state-of-the-art natural language processing algorithms to provide precise translations for an extensive range of languages and contexts.</p>
 <b>Azure AI Computer Vision Studio (OCR) Service:</b><br><p align="justify">Azure AI Computer Vision service is a powerful and versatile tool for extracting text from images and documents. It can automate data entry, digitize processes, and unlock valuable insights from text-based content.</p>
 
 <h2>Other Azure Technologies / Services</h2>
-<b>Azure Functions:</b><br><p align="justify">Azure Functions: Potential use for background processing tasks or additional functionalities.</p>
 <b>Azure Key Vault: </b><br><p align="justify">Securely manages keys, secrets, and certificates used in the application.</p></b>

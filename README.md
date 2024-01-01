@@ -6,7 +6,7 @@
 <b>Project Demo URL : https://extractor-translator-app.azurewebsites.net/ </b> <br>
 <b>Demo Video URL : https://drive.google.com/drive/folders/1Vxm2UwsahOpHrnsOJnCSisMXWquhCRJ4?usp=drive_link </b><br>
 <b>Github Repository URL : https://github.com/ganeshbaravkargb22/Extractor_Translator_App </b> <br>
-<b>Industry : Automation and Intelligence Technology </b><br>
+<b>Industry : Lifestyle and Intelligence Technology </b><br>
 <h2>Azure Services Used</h2>
 <h3>Azure AI Service </h3> 
 <b>1. Azure AI Computer vision Service : To perform optical character recognition(OCR) and extract text from images or documents.</b><br>

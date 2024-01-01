@@ -9,7 +9,7 @@
 <b>Industry : Lifestyle and Intelligence Technology </b><br>
 <h2>Azure Services Used</h2>
 <h3>Azure AI Service </h3> 
-<b>1. Azure AI Computer vision Service : To perform optical character recognition(OCR) and extract text from images or documents.</b><br>
+<b>1. Azure AI Custom (Computer) vision Service : To perform optical character recognition(OCR) and extract text from images or documents.</b><br>
 <b>2. Azure AI Translator Service: Utilized for text translation into multiple languages.</b>  <br>
 <h3>Core Azure Services:</h3>
 <b>1. Azure App Service: Deployed  the streamlit Web App on Azure Cloud Portal.</b><br>
@@ -24,7 +24,7 @@ To develop a web application that seamlessly extracts text from images and docum
 
 <b>Technologies :</b>
 <ul>
-    <li>Azure Computer Vision Service for text extraction.</li>
+    <li>Azure Custom (Computer) Vision Service for text extraction.</li>
     <li>Azure Translator Service for language translation.</li>
     <li>Streamlit framework for building the user interface.</li>
     <li>Azure Web App Service for deployment.</li>
@@ -47,7 +47,7 @@ To develop a web application that seamlessly extracts text from images and docum
 
 <h2>Azure AI Service</h2>
 <b>Azure AI Translator Service:</b><br><p align="justify">Our translation functionality is powered by the highly advanced Azure AI Translator service. This service utilizes state-of-the-art natural language processing algorithms to provide precise translations for an extensive range of languages and contexts.</p>
-<b>Azure AI Computer Vision Studio (OCR) Service:</b><br><p align="justify">Azure AI Computer Vision service is a powerful and versatile tool for extracting text from images and documents. It can automate data entry, digitize processes, and unlock valuable insights from text-based content.</p>
+<b>Azure AI Custom(Computer) Vision Studio (OCR) Service:</b><br><p align="justify">Azure AI Computer Vision service is a powerful and versatile tool for extracting text from images and documents. It can automate data entry, digitize processes, and unlock valuable insights from text-based content.</p>
 
 <h2>Other Azure Technologies / Services</h2>
 <b>Azure Key Vault: </b><br><p align="justify">Securely manages keys, secrets, and certificates used in the application.</p></b>
@@ -63,7 +63,7 @@ The service can extract text from images,Documents enabling applications to reco
 <b><p align="justify">
 It takes in any type of document or images written in English and is sent to the service to extract data from it
 
-Inside Computer Vision Studio under the Optical Character Recognition , the feature Extract Text from Image is used to do the work of getting any complicated written text from the different formates.</p></b>
+Inside Custom/Computer Vision Studio under the Optical Character Recognition , the feature Extract Text from Image is used to do the work of getting any complicated written text from the different formates.</p></b>
 <img src="screenshots/cvex.png"></img><br>
 
 <h3>Azure AI Translator Service</h3>
